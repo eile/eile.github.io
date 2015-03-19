@@ -6,4 +6,4 @@ group: index
 ---
 
 # eile.github.io
-Testing Jekyll
+Testing Jekyll with more features

@@ -1,6 +1,8 @@
 ---
-title: This is my title
-layout: post
+title: Hello There
+layout: front
+tagline: Just testing Jekyll
+group: index
 ---
 
 # eile.github.io
